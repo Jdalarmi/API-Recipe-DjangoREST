@@ -19,7 +19,9 @@ build ....
 <div align="center">
 
 <img align="left" alt="python" height="30" width="30" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-<img align="left" alt="Postgresql" height="30" width="30" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor
+<img align="left" alt="Django" height="30" width="30" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+<img align="left" alt="Docker" height="30" width="30" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
+
 
 
 ">
