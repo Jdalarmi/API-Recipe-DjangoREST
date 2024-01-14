@@ -1,4 +1,3 @@
-![Alt text](images.png)
 
 # API Recipe
 
