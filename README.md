@@ -3,7 +3,15 @@
 
 ## 📖  Descrição
 
-build .....
+Esse projeto consiste em criar uma API REST que pode lidar com:
+
+- Autenticação de usuário
+
+- Criando objetos
+
+- Filtrando e classificando objetos
+
+- Carregando e visualizando imagens
 
 <br/>
 
