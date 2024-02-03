@@ -1,17 +1,21 @@
 
-# API Recipe
+# API: Receitas Favoritas
 
-## 📖  Descrição
+API desenvolvida para guardar suas receitas e poder consultar quando precisar através de filtros
 
-Esse projeto consiste em criar uma API REST que pode lidar com:
+![Alt text](receitas.png)
 
-- Autenticação de usuário
+Se você sempre vê uma receita e pensa que deveria salvar ela para fazer depois,
+acredite, está no lugar certo. Através do Endpoint de criar uma receita, você vai poder criar, editar, excluir ou consultar uma receita pela tag dela…
+Gostaria de salvar receita com imagem? Sem problemas, salva uma receita e depois acrescente uma imagem nela através do endpoint que fornece essa função.
 
-- Criando objetos
+Fique tranquilo aqui no nosso sistema você não ser a "vergonha da profisoon"...
+![Alt text](jacan.jpg)
 
-- Filtrando e classificando objetos
 
-- Carregando e visualizando imagens
+Não é uma pegadinha nosso sistema esta devidamente testado para você.
+
+![Alt text](teste.jpg)
 
 <br/>
 
