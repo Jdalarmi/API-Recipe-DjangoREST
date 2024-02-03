@@ -3,7 +3,7 @@
 
 API desenvolvida para guardar suas receitas e poder consultar quando precisar através de filtros
 
-![Alt text](receitas.png)
+![Alt text](receitas.jpg)
 
 Se você sempre vê uma receita e pensa que deveria salvar ela para fazer depois,
 acredite, está no lugar certo. Através do Endpoint de criar uma receita, você vai poder criar, editar, excluir ou consultar uma receita pela tag dela…
@@ -16,16 +16,26 @@ Fique tranquilo aqui no nosso sistema você não ser a "vergonha da profisoon"..
 
 Não é uma pegadinha nosso sistema esta devidamente testado para você.
 
-![Alt text](teste.pgn)
+![Alt text](teste.png)
 
 <br/>
 
-## 🛠️ Funcionalidades
+## 🛠️ Setup A.P.I
 
-build ....
+Este projeto utiliza tecnologias listadas no requirements.txt para produção.
 
-## Confira minhas Models
+### Tecnologias principais
+- DjangoREST: Framework web utlizado no desenvolvimento.
+- uWSGI: Servidor Web que atua como interface entre Django e o servidor HTTP.
+- Swagger: Utlizando documentação do swagger com lib drf_spetacular.
+- AWS: Projeto hospedado na AWS para garantir escalabilidade e segurança.
+- Docker: Para garantir consistencia do ambiente de desenvolvimento e produção.
+- PostgreSQL: Utilizado como banco de dados relacional para armazenar os dados.
+- Nginx: Atuando como servidor web reverso para gerenciar trafego e encaminha-lo para aplicação Django.
 
+## ⏳ Executando o projeto
+O projeto está dockerizado, facilitando a configuração do ambiente. Para iniciar, basta executar o seguinte comando:
+```docker-compose up -d```
 
 ## 📡 Tecnologias utilizadas
 <div align="center">
@@ -35,22 +45,13 @@ build ....
 <img align="left" alt="Docker" height="60" width="60" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
 <img align="left" alt="PostgreSQL" height="60" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
 
-
 </div>
-<br/><br/>
 
-## ⏳ Inicialização
+## Docuemntação OpenAPI
 
-build..
+Você pode acessar a API para conferir a documentação do swagger no endereço abaixo:
 
-
-<br/>
-
-## 🔮 Implementações futuras
-build....
-
-
-<br/>
+http://ec2-34-229-180-18.compute-1.amazonaws.com/api/docs/
 
 ## 🔎 Status do Projeto
 
