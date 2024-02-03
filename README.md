@@ -10,12 +10,13 @@ acredite, está no lugar certo. Através do Endpoint de criar uma receita, você
 Gostaria de salvar receita com imagem? Sem problemas, salva uma receita e depois acrescente uma imagem nela através do endpoint que fornece essa função.
 
 Fique tranquilo aqui no nosso sistema você não ser a "vergonha da profisoon"...
+
 ![Alt text](jacan.jpg)
 
 
 Não é uma pegadinha nosso sistema esta devidamente testado para você.
 
-![Alt text](teste.jpg)
+![Alt text](teste.pgn)
 
 <br/>
 
