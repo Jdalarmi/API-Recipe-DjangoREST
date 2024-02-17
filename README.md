@@ -51,7 +51,7 @@ O projeto está dockerizado, facilitando a configuração do ambiente. Para inic
 
 Você pode acessar a API para conferir a documentação do swagger no endereço abaixo:
 
-http://ec2-34-229-180-18.compute-1.amazonaws.com/api/docs/
+http://ec2-54-164-252-47.compute-1.amazonaws.com/api/docs/
 
 ## 🔎 Status do Projeto
 
